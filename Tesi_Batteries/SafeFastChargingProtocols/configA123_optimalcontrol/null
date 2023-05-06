@@ -1,0 +1,65 @@
+Creating the system...        
+ 0.00% ETA: [00.0s]The system created successfully.
+ 0.00% ETA: [00.0s]Starting the initialization of the system... Done.
+ 0.00% ETA: [00.0s]Number of DAES
+176
+0.00% ETA: [00.0s] Integrating from 0.00 to 150.00 s ...33.00% ETA: [02.4s] Integrating from 150.00 to 300.00 s ...Warning: IDAS solver error at TIME = 14.2699 [IDA_TOO_MUCH_WORK]
+ 33.00% ETA: [05.6s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 33.00% ETA: [05.6s]  Suggested factor by which the user’s tolerances should be scaled is 9.0955e-11
+ 33.00% ETA: [05.6s]Warning: IDAS solver error at TIME = 15.0191 [IDA_TOO_MUCH_WORK]
+ 33.00% ETA: [09.0s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 33.00% ETA: [09.0s]  Suggested factor by which the user’s tolerances should be scaled is 9.11481e-11
+ 33.00% ETA: [09.0s]66.00% ETA: [02.8s] Integrating from 300.00 to 450.00 s ...Warning: IDAS solver error at TIME = 15.8659 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [03.6s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [03.6s]  Suggested factor by which the user’s tolerances should be scaled is 9.13945e-11
+ 66.00% ETA: [03.6s]Warning: IDAS solver error at TIME = 16.3715 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [04.8s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [04.8s]  Suggested factor by which the user’s tolerances should be scaled is 9.22095e-11
+ 66.00% ETA: [04.8s]Warning: IDAS solver error at TIME = 16.8357 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [05.8s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [05.8s]  Suggested factor by which the user’s tolerances should be scaled is 9.22238e-11
+ 66.00% ETA: [05.8s]Warning: IDAS solver error at TIME = 17.3915 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [06.7s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [06.7s]  Suggested factor by which the user’s tolerances should be scaled is 9.21371e-11
+ 66.00% ETA: [06.7s]Warning: IDAS solver error at TIME = 17.9663 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [07.7s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [07.7s]  Suggested factor by which the user’s tolerances should be scaled is 9.20657e-11
+ 66.00% ETA: [07.7s]Warning: IDAS solver error at TIME = 18.4406 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [08.7s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [08.7s]  Suggested factor by which the user’s tolerances should be scaled is 9.19999e-11
+ 66.00% ETA: [08.7s]Warning: IDAS solver error at TIME = 18.8975 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [09.6s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [09.6s]  Suggested factor by which the user’s tolerances should be scaled is 9.19674e-11
+ 66.00% ETA: [09.6s]Warning: IDAS solver error at TIME = 19.2319 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [10.5s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [10.5s]  Suggested factor by which the user’s tolerances should be scaled is 9.23759e-11
+ 66.00% ETA: [10.5s]Warning: IDAS solver error at TIME = 19.6162 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [11.5s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [11.5s]  Suggested factor by which the user’s tolerances should be scaled is 9.31759e-11
+ 66.00% ETA: [11.5s]Warning: IDAS solver error at TIME = 20.0067 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [12.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [12.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.3315e-11
+ 66.00% ETA: [12.4s]Warning: IDAS solver error at TIME = 20.2882 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [13.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [13.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.35084e-11
+ 66.00% ETA: [13.4s]Warning: IDAS solver error at TIME = 20.6661 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [14.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [14.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.36343e-11
+ 66.00% ETA: [14.4s]Warning: IDAS solver error at TIME = 21.0471 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [15.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [15.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.37724e-11
+ 66.00% ETA: [15.4s]Warning: IDAS solver error at TIME = 21.4249 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [16.5s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [16.5s]  Suggested factor by which the user’s tolerances should be scaled is 9.39373e-11
+ 66.00% ETA: [16.5s]Warning: IDAS solver error at TIME = 22.0048 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [17.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [17.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.41138e-11
+ 66.00% ETA: [17.4s]Warning: IDAS solver error at TIME = 22.2925 [IDA_TOO_MUCH_WORK]
+ 66.00% ETA: [18.4s]  Try to increase daetools.IDAS.MaxNumSteps option in daetools.cfg
+ 66.00% ETA: [18.4s]  Suggested factor by which the user’s tolerances should be scaled is 9.42883e-11
+ 66.00% ETA: [18.4s]
+
+Used parameter file .\configA123_optimalcontrol/input_params_system.cfg
+
+
+Total time: 36.294655323028564 s
